@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ce2.iml" filepath="$PROJECT_DIR$/.idea/modules/ce2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ce3.iml" filepath="$PROJECT_DIR$/.idea/modules/ce3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/queue-order-repro.iml" filepath="$PROJECT_DIR$/.idea/modules/queue-order-repro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/queue-order-repro-build.iml" filepath="$PROJECT_DIR$/.idea/modules/queue-order-repro-build.iml" />
+    </modules>
+  </component>
+</project>
